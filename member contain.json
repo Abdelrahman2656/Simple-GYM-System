@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Ali ahmed",
+        "nationalId": "536354563547",
+        "phone_number": 36536674234,
+        "membership": {
+            "from": "2024-06-14",
+            "to": "2022-12-12",
+            "cost": 200
+        },
+        "status": "active",
+        "trainerId": 300
+    },
+    {
+        "id": 2,
+        "name": "Ali mahmoud",
+        "nationalId": "3764765252",
+        "phone_number": 4242345432342,
+        "membership": {
+            "from": "2024-06-14",
+            "to": "2024-12-12",
+            "cost": 300
+        },
+        "status": "freeze",
+        "trainerId": 300
+    },
+    {
+        "name": "Ali  ",
+        "nationalId": "01202987831868443",
+        "phone_number": 36536674234,
+        "status": "active",
+        "id": 3,
+        "trainerId": 302
+    },
+    {
+        "id": 4,
+        "name": "Ali ahmed",
+        "nationalId": "536354547",
+        "phone_number": 365234,
+        "status": "freeze",
+        "trainerId": 302
+    },
+    {
+        "name": "Ali ahmed",
+        "nationalId": "5363523454547",
+        "phone_number": 365345234,
+        "status": "freeze",
+        "trainerId": 304,
+        "id": 6
+    }
+]

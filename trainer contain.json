@@ -1,0 +1,26 @@
+[
+    {
+        "trainerId": 300,
+        "name": "ahmed ali ",
+        "duration": {
+            "from": "2024-06-14",
+            "to": "2024-12-12"
+        }
+    },
+    {
+        "trainerId": 307,
+        "name": "ahmed mohamed ",
+        "duration": {
+            "from": "2024-06-14",
+            "to": "2024-12-12"
+        }
+    },
+    {
+        "trainerId": 308,
+        "name": "ahmed mohamed  mo ",
+        "duration": {
+            "from": "2024-06-16",
+            "to": "2024-12-14"
+        }
+    }
+]
